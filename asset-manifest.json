@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-redux-practice/static/css/main.368e62dd.css",
+    "main.js": "/goit-react-redux-practice/static/js/main.c2a38a19.js",
+    "index.html": "/goit-react-redux-practice/index.html",
+    "main.368e62dd.css.map": "/goit-react-redux-practice/static/css/main.368e62dd.css.map",
+    "main.c2a38a19.js.map": "/goit-react-redux-practice/static/js/main.c2a38a19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.368e62dd.css",
+    "static/js/main.c2a38a19.js"
+  ]
+}
